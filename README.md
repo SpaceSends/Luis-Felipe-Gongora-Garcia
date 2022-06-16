@@ -22,3 +22,5 @@
 </div>
   
 ##
+  
+  ![Snake animation](https://github.com/Luis-Felipe-Gongora-Garcia/Luis-Felipe-Gongora-Garcia/blob/output/github-contribution-grid-snake.svg)
